@@ -5,7 +5,7 @@
 ## I'm a Developer
 
 
-- 🌱 I am currently learning more about blockchain development.
+- 🌱 I am currently learning everything xD.
 - 🏆 2021 Goals: Contribute more to Open Source Projects.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/allenjosephaj/)
 - 😄 Pronouns: He/Him
@@ -29,6 +29,11 @@
 
 ---
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 <!--START_SECTION:waka-->
 **I'm a Night 🐤** 
 
