@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZhzMmerYzN)
 [![Instagram](https://img.shields.io/badge/Instagram-FF4500?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allen.codes/)
 
-[![Dell](https://img.shields.io/badge/Inspiron 15 3000?style=for-the-badge&logo=dell&logoColor=white)]()
+[![Dell](https://img.shields.io/badge/Inspiron-15-3000?style=for-the-badge&logo=dell&logoColor=white)]()
 
 
 ---
