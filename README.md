@@ -25,7 +25,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/playlist/3soMpVj2IeBj2yKSHgBu3d?si=3889ce48065d457e)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31e7uyk7g5pqbiuoibtelum4gkle&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
