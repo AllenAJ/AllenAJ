@@ -25,7 +25,7 @@
 
 ### Spotify Playing 🎧
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e7uyk7g5pqbiuoibtelum4gkle&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e7uyk7g5pqbiuoibtelum4gkle)
 
 ---
 
