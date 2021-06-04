@@ -35,16 +35,18 @@
 
 ---
 
-### Youtube videoss
+### Youtube videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
+### Weekly Development 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
 ---
+<!--
 [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
@@ -60,3 +62,4 @@
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
+-->
