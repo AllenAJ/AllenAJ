@@ -53,8 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     42 mins         ██████████████████████▒░░   89.09 % 
-Rust         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Rust         4 mins          ███████████████████████▒░   93.84 % 
 ```
 <!--END_SECTION:waka-->
 
