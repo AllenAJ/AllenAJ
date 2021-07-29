@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Rust         4 mins          ███████████████████████▒░   93.84 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
