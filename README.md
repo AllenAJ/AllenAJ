@@ -53,7 +53,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Solidity     4 mins          ██████████████▓░░░░░░░░░░   58.91 % 
+JavaScript   3 mins          ██████████▒░░░░░░░░░░░░░░   41.09 % 
 ```
 <!--END_SECTION:waka-->
 
