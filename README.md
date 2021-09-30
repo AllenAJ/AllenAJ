@@ -53,9 +53,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP          1 hr 45 mins    ███████████████████████▒░   92.93 % 
-Solidity     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+PHP          1 hr 46 mins    ███████████████████████░░   92.09 % 
+Solidity     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+JavaScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 <!--END_SECTION:waka-->
 
