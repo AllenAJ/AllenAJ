@@ -52,9 +52,11 @@
 [![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenAJ)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
