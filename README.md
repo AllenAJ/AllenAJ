@@ -36,16 +36,7 @@
 - [How I reverse engineered a $10M facebook canvas game](https://dev.to/allenaj/how-i-reverse-engineered-a-10m-facebook-canvas-game-eek)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-### Youtube videos
-<!-- YOUTUBE:START -->
-- [When you start coding vs a pro](https://www.youtube.com/watch?v=oyVPOjibJ60)
-- [Technical job interviews](https://www.youtube.com/watch?v=g7oNeHveJWM)
-- [Best JavaScript project!](https://www.youtube.com/watch?v=Zo4brSssMkw)
-- [First day of coding!](https://www.youtube.com/watch?v=rYvf7KoCwco)
-- [Best music to code!](https://www.youtube.com/watch?v=sGdu4D30JfU)
-<!-- YOUTUBE:END -->
 
 ---
 ### Weekly Development 
