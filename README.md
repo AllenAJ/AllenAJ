@@ -6,7 +6,7 @@
 
 
 - 🌱 I am currently learning everything xD.
-- 🏆 2025 Goals: Make more Indie Apps.
+- 🏆 2026 Goals: Make more Indie Apps.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/allenjosephaj/)
 - 😄 Pronouns: He/Him
 
